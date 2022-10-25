@@ -1,6 +1,6 @@
 # Power BI with Azure Synapse & Azure Databricks
 
-This repositiory contains the artifacts from the talk given at Community Summit.
+This repositiory contains the artifacts from the talk given at Community Summit. The slide deck for the talk can be found in **PowerPoint** folder and the notebooks and code files can be found in the **Notebooks** folder. A description of the of the notebook and code files can be found below:
 - ***CombiningJSONFIles.ipynb***:  This notebook illustrates how Spark can be used to move data from the bronze layer to the silver layer. It shows an example of raw JSON files beign converted to a tabular data set.
 - ***CreateMount.ipynb***:  THis notebook shows the code needed to created a Databricks mount point.
 - ***createDataSource.sql***:  This notebook shows how to create a data source for Synapse SQL Serverless for data in the data lakehouse.
